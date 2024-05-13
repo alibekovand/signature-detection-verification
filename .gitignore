@@ -1,3 +1,11 @@
 detection/
 runs/
-
+cleaning/gan_sign_cleaning_dataset
+cleaning/gan-sign_data_kaggle
+cleaning/train_results
+verification/clean_sign_dataset
+verification/sign_data
+verification/sign_data_cutv2
+verification/sign_verification_dataset
+verification/sign_data_cutv2.7z
+verification/vgg_finetuned_model.keras
